@@ -23,7 +23,7 @@ This repository contains a *tiny* 1.8GB zipped list of repositories that you may
 
 Fear not! There are even lazier ways of doing attribution. 
 
-Just link to [thanksforthecode.com](http://thanksforthecode.com) which will (eventually) thank all[^2] GitHub repositories. Your users can casually browse the list like they would their favorite EULA. You can give it a personal touch by providing a parameter: [thanksforthecode.com?name=PROJECT_NAME](http://thanksforthecode.com?name=PROJECT_NAME). This website is free of ads and cookies.
+Just link to [thanksforthecode.com](http://thanksforthecode.com) which will (eventually) thank all GitHub repositories[^2]. Your users can casually browse the list like they would their favorite EULA. You can give it a personal touch by providing a parameter: [thanksforthecode.com?name=PROJECT_NAME](http://thanksforthecode.com?name=PROJECT_NAME). This website is free of ads and cookies.
 
 
 ## I don't want to link to [thanksforthecode.com](http://thanksforthecode.com)!!
