@@ -16,7 +16,9 @@ This is the easy way of doing attribution [^1], with or without using Copilot! N
 
 > When you are not sure what you did wrong, apologize to everyone you encounter.
 
-This repository contains a *tiny* 1.8GB zipped list of repositories that you may or may not have unwittingly borrowed code from. Don't be a stranger! Feel free to distribute it with all your applications, libraries and websites.
+This repository contains a *tiny* 1.8GB zipped list of repositories that you may or may not have unwittingly borrowed code from.  Just download the whole repository and run 
+`unpack.sh` to unzip the archive. Don't be a stranger! Feel free to distribute
+it with all your applications, libraries and websites.
 
 
 ## I can't add a 1.8GB file to my website/library/application!!
